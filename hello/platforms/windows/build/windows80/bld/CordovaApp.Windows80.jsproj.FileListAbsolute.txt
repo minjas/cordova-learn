@@ -1,0 +1,17 @@
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\debug\anycpu\resources.pri
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\debug\anycpu\AppxManifest.xml
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\debug\anycpu\CordovaApp.Windows80.build.appxrecipe
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\priconfig.xml
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\priconfig.xml.intermediate
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\layout.resfiles
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\layout.resfiles.intermediate
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\resources.resfiles
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\resources.resfiles.intermediate
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\pri.resfiles
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\pri.resfiles.intermediate
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\qualifiers.txt
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\qualifiers.txt.intermediate
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\MultipleQualifiersPerDimensionFound.txt
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\resources.pri.xml
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\ProjectArchitectures.txt
+D:\git\cordova-learn\hello\platforms\windows\build\windows80\bld\package.map.txt

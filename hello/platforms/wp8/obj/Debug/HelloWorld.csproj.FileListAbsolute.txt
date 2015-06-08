@@ -1,0 +1,14 @@
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\Background.png
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\com.example.hello.dll
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\com.example.hello.pdb
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\git\cordova-learn\hello\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\App.g.cs
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\com.example.hello.g.resources
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\com.example.hello.dll
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\com.example.hello.pdb
+D:\git\cordova-learn\hello\platforms\wp8\obj\Debug\XapCacheFile.xml
